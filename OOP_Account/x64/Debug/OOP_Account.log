@@ -1,0 +1,3 @@
+﻿  OOP_Account.cpp
+C:\Users\HP\Desktop\cs_knolwdge\OOP_Account\OOP_Account.cpp(58,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OOP_Account.vcxproj -> C:\Users\HP\Desktop\cs_knolwdge\OOP_Account\x64\Debug\OOP_Account.exe
